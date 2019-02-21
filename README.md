@@ -1,3 +1,7 @@
+Пример бота в телеграм: @onehr_bot
+
+
+
 # Deploy [Heroku](https://www.heroku.com/) Bot
 
 ## Подготовка
